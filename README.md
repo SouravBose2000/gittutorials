@@ -1,6 +1,3 @@
-Git Tutorials By developera
-Git Tutorial By Developer B 
+## My name is Sourav Bose
 
-## Please susbcriibe to my channel
-
-##changes to be commited
+## changes to be commited
